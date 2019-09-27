@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/poke-react/static/css/main.9959eee7.chunk.css",
-    "main.js": "/poke-react/static/js/main.f958cca4.chunk.js",
-    "main.js.map": "/poke-react/static/js/main.f958cca4.chunk.js.map",
-    "runtime-main.js": "/poke-react/static/js/runtime-main.6dbdc94d.js",
-    "runtime-main.js.map": "/poke-react/static/js/runtime-main.6dbdc94d.js.map",
-    "static/js/2.2768a5e8.chunk.js": "/poke-react/static/js/2.2768a5e8.chunk.js",
-    "static/js/2.2768a5e8.chunk.js.map": "/poke-react/static/js/2.2768a5e8.chunk.js.map",
-    "index.html": "/poke-react/index.html",
-    "precache-manifest.5be72301f0eb0602cca7999bae7e1255.js": "/poke-react/precache-manifest.5be72301f0eb0602cca7999bae7e1255.js",
-    "service-worker.js": "/poke-react/service-worker.js",
-    "static/css/main.9959eee7.chunk.css.map": "/poke-react/static/css/main.9959eee7.chunk.css.map"
+    "main.css": "/react-gh-pages/static/css/main.9959eee7.chunk.css",
+    "main.js": "/react-gh-pages/static/js/main.25587f09.chunk.js",
+    "main.js.map": "/react-gh-pages/static/js/main.25587f09.chunk.js.map",
+    "runtime-main.js": "/react-gh-pages/static/js/runtime-main.40ae5c01.js",
+    "runtime-main.js.map": "/react-gh-pages/static/js/runtime-main.40ae5c01.js.map",
+    "static/js/2.2768a5e8.chunk.js": "/react-gh-pages/static/js/2.2768a5e8.chunk.js",
+    "static/js/2.2768a5e8.chunk.js.map": "/react-gh-pages/static/js/2.2768a5e8.chunk.js.map",
+    "index.html": "/react-gh-pages/index.html",
+    "precache-manifest.7979fa4ca4d9df0ef06a79d1a622556c.js": "/react-gh-pages/precache-manifest.7979fa4ca4d9df0ef06a79d1a622556c.js",
+    "service-worker.js": "/react-gh-pages/service-worker.js",
+    "static/css/main.9959eee7.chunk.css.map": "/react-gh-pages/static/css/main.9959eee7.chunk.css.map"
   }
 }
